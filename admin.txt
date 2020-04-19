@@ -1,0 +1,2 @@
+Edit this to send admin category by executing command =help
+`=purge` **Purges a message** __Usage__: *=purge [amount]*

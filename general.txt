@@ -1,0 +1,2 @@
+Edit this to send general category by executing command =help
+`=prefix` **Change prefix of server** __Usage__: *=prefix [prefix]*

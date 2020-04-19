@@ -1,0 +1,2 @@
+Edit this to send info category by executing command =help
+`=info` **Sends info** __Usage__: *=information*

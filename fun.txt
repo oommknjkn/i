@@ -1,0 +1,2 @@
+Edit this to send fun category by executing command =help
+`=fun` **Sends funny message** __Usage__: *=fun*

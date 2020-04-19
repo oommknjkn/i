@@ -1,0 +1,2 @@
+Edit this to send music category by executing command =help
+`=music` **Plays music** __Usage__: *=music [link]*
